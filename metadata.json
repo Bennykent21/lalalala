@@ -1,0 +1,6 @@
+{
+  "name": "AgentForge",
+  "description": "Visual Agent IDE and Workflow Studio for multi-agent systems, tool execution, and interactive debugging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
